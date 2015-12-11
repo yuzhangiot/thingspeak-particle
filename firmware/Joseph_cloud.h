@@ -46,8 +46,8 @@
  * * <b>WriteVoltage:</b> Reads an analog voltage from pin 0, converts to a voltage, and writes it to a channel on ThingSpeak.
  */
 
-#ifndef ThingSpeak_h
-#define ThingSpeak_h
+#ifndef Joseph_cloud_h
+#define Joseph_cloud_h
 
 //#define PRINT_DEBUG_MESSAGES
 //#define PRINT_HTTP
@@ -1469,6 +1469,6 @@ private:
 	};
 };
 
-extern ThingSpeakClass ThingSpeak;
+extern ThingSpeakClass Joseph_cloud;
 
-#endif //ThingSpeak_h
+#endif //Joseph_cloud_h

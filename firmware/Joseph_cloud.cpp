@@ -10,4 +10,4 @@
 */
 
 #include "Joseph_cloud.h"
-ThingSpeakClass ThingSpeak;
+ThingSpeakClass Joseph_cloud;
